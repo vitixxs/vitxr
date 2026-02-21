@@ -10,3 +10,5 @@ Currently learning :
 
 Focus area :
   I love the intersection between data and motorsports. My projects use real Formula 1 datasets to practice analysis, visualization, and database modeling.
+
+  Linkedin : https://www.linkedin.com/in/vitxrr/
